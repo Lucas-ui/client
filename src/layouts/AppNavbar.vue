@@ -1,7 +1,5 @@
 <template>
-  <main>
-    <p>test</p>
-  </main>
+  <p class="text-2xl">Navbar</p>
 </template>
 
 <script setup></script>
