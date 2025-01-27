@@ -1,11 +1,8 @@
 <template>
   <AppLayout />
-  <RouterView />
 </template>
 
 <script setup>
-import { RouterView } from 'vue-router'
 import AppLayout from './layouts/AppLayout.vue'
+import 'remixicon/fonts/remixicon.css'
 </script>
-
-<style scoped></style>
